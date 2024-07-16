@@ -1,0 +1,6 @@
+2024-07-16 16:02:48,846 : INFO : root : Loading config.
+2024-07-16 16:02:49,022 : INFO : ConfigProcessor : Config spec file cache created: /var/folders/h0/bms6fkcd70g4tl86tjln_pcw0000gn/T/config_spec.mpf_cache
+2024-07-16 16:02:49,022 : INFO : YamlMultifileConfigLoader : Machine config file #1: config.yaml
+2024-07-16 16:02:49,022 : INFO : ConfigProcessor : Loading config from file /Users/zachmccarthy/mpfenv/lib/python3.9/site-packages/mpf/mpfconfig.yaml.
+2024-07-16 16:02:49,056 : INFO : ConfigProcessor : Loading config: /Users/zachmccarthy/mpfenv/lib/python3.9/site-packages/mpf/mpfconfig.yaml
+2024-07-16 16:02:49,057 : INFO : ConfigProcessor : Loading config from file /Users/zachmccarthy/Documents/GitHub/Pinball/my_machine/config/config.yaml.

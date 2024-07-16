@@ -1,0 +1,53 @@
+2024-07-16 16:39:23,011 : INFO : root : Loading config.
+2024-07-16 16:39:23,013 : INFO : YamlMultifileConfigLoader : Machine config file #1: config.yaml
+2024-07-16 16:39:23,013 : WARNING : ConfigProcessor : Config file in cache changed: /Users/zachmccarthy/Documents/GitHub/Pinball/my_machine/config/config.yaml
+2024-07-16 16:39:23,013 : INFO : ConfigProcessor : Loading config from file /Users/zachmccarthy/mpfenv/lib/python3.9/site-packages/mpf/mpfconfig.yaml.
+2024-07-16 16:39:23,047 : INFO : ConfigProcessor : Loading config: /Users/zachmccarthy/mpfenv/lib/python3.9/site-packages/mpf/mpfconfig.yaml
+2024-07-16 16:39:23,047 : INFO : ConfigProcessor : Loading config from file /Users/zachmccarthy/Documents/GitHub/Pinball/my_machine/config/config.yaml.
+2024-07-16 16:39:23,049 : INFO : ConfigProcessor : Loading config: /Users/zachmccarthy/Documents/GitHub/Pinball/my_machine/config/config.yaml
+2024-07-16 16:39:23,050 : INFO : ConfigProcessor : Config file cache created: /var/folders/h0/bms6fkcd70g4tl86tjln_pcw0000gn/T/f3d370de0c4a1fa85b3b4f835a156a62.mpf_cache
+2024-07-16 16:39:23,065 : INFO : ConfigProcessor : Loading config from cache: /var/folders/h0/bms6fkcd70g4tl86tjln_pcw0000gn/T/acccfcdd4b43d9065391968198b4e01f.mpf_cache
+2024-07-16 16:39:23,065 : INFO : ConfigProcessor : Loading config from cache: /var/folders/h0/bms6fkcd70g4tl86tjln_pcw0000gn/T/c5d6a5b2a989736550b4a6ee07efb547.mpf_cache
+2024-07-16 16:39:23,065 : INFO : Machine : Mission Pinball Framework Core Engine v0.56.2
+2024-07-16 16:39:23,065 : INFO : Machine : Command line arguments: {'no_load_cache': False, 'create_config_cache': True, 'bcp': False, 'configfile': ['config.yaml'], 'force_assets_load': False, 'jsonlogging': False, 'logfile': 'logs/2024-07-16-16-39-23-mpf-Zachs-Air.home.log', 'pause': False, 'production': False, 'text_ui': False, 'loglevel': 15, 'consoleloglevel': 20, 'force_platform': None, 'syslog_address': None, 'mc_file_name': None, 'no_sound': False}
+2024-07-16 16:39:23,065 : INFO : Machine : MPF path: /Users/zachmccarthy/mpfenv/lib/python3.9/site-packages/mpf
+2024-07-16 16:39:23,065 : INFO : Machine : Machine path: /Users/zachmccarthy/Documents/GitHub/Pinball/my_machine
+2024-07-16 16:39:23,065 : INFO : Machine : Platform: darwin
+2024-07-16 16:39:23,065 : INFO : Machine : Python executable location: /Users/zachmccarthy/mpfenv/bin/python3
+2024-07-16 16:39:23,065 : INFO : Machine : Python version: 3.9.6 (64-bit)
+2024-07-16 16:39:23,066 : INFO : Machine : Initialise MPF.
+2024-07-16 16:39:23,075 : INFO : EventManager : Event: ======'machine_var_credits_string'====== Args={'value': 'FREE PLAY', 'prev_value': None, 'change': True}
+2024-07-16 16:39:23,084 : INFO : EventManager : Event: ======'machine_var_master_volume'====== Args={'value': 0.5, 'prev_value': None, 'change': True}
+2024-07-16 16:39:23,084 : INFO : EventManager : Event: ======'machine_var_mpf_version'====== Args={'value': 'MPF v0.56.2', 'prev_value': None, 'change': True}
+2024-07-16 16:39:23,085 : INFO : EventManager : Event: ======'machine_var_mpf_extended_version'====== Args={'value': 'MPF v0.56.2, Config version:5, Show version: 5, BCP version:1.1', 'prev_value': None, 'change': True}
+2024-07-16 16:39:23,085 : INFO : EventManager : Event: ======'machine_var_python_version'====== Args={'value': '3.9.6', 'prev_value': None, 'change': True}
+2024-07-16 16:39:23,092 : INFO : EventManager : Event: ======'machine_var_platform'====== Args={'value': 'macOS-12.5.1-arm64-arm-64bit', 'prev_value': None, 'change': True}
+2024-07-16 16:39:23,092 : INFO : EventManager : Event: ======'machine_var_platform_system'====== Args={'value': 'Darwin', 'prev_value': None, 'change': True}
+2024-07-16 16:39:23,093 : INFO : EventManager : Event: ======'machine_var_platform_release'====== Args={'value': '21.6.0', 'prev_value': None, 'change': True}
+2024-07-16 16:39:23,093 : INFO : EventManager : Event: ======'machine_var_platform_version'====== Args={'value': 'Darwin Kernel Version 21.6.0: Wed Aug 10 14:28:35 PDT 2022; root:xnu-8020.141.5~2/RELEASE_ARM64_T8101', 'prev_value': None, 'change': True}
+2024-07-16 16:39:23,093 : INFO : EventManager : Event: ======'machine_var_platform_machine'====== Args={'value': 'arm64', 'prev_value': None, 'change': True}
+2024-07-16 16:39:23,093 : INFO : EventManager : Event: ======'init_phase_1'====== Args={}
+2024-07-16 16:39:23,097 : INFO : EventManager : Event: ======'init_phase_2'====== Args={}
+2024-07-16 16:39:23,099 : INFO : EventManager : Event: ======'init_phase_3'====== Args={}
+2024-07-16 16:39:23,100 : INFO : EventManager : Event: ======'init_phase_4'====== Args={}
+2024-07-16 16:39:23,101 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_left_flipper'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2024-07-16 16:39:23,101 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_right_flipper'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2024-07-16 16:39:23,101 : INFO : EventManager : Event: ======'machine_var_audits_events_game_started'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2024-07-16 16:39:23,101 : INFO : EventManager : Event: ======'machine_var_audits_events_game_ended'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2024-07-16 16:39:23,101 : INFO : EventManager : Event: ======'machine_var_audits_player_score'====== Args={'value': {'top': [], 'average': 0, 'total': 0}, 'prev_value': None, 'change': True}
+2024-07-16 16:39:23,101 : INFO : EventManager : Event: ======'init_phase_5'====== Args={}
+2024-07-16 16:39:23,101 : INFO : EventManager : Event: ======'init_done'====== Args={}
+2024-07-16 16:39:23,101 : INFO : EventManager : Event: ======'machine_reset_phase_1'====== Args={}
+2024-07-16 16:39:23,101 : INFO : EventManager : Event: ======'machine_reset_phase_2'====== Args={}
+2024-07-16 16:39:23,101 : INFO : EventManager : Event: ======'machine_reset_phase_3'====== Args={}
+2024-07-16 16:39:23,101 : INFO : EventManager : Event: ======'reset_complete'====== Args={}
+2024-07-16 16:39:23,102 : INFO : EventManager : Event: ======'mode_attract_will_start'====== Args={}
+2024-07-16 16:39:23,102 : INFO : EventManager : Event: ======'mode_attract_starting'====== Args={}
+2024-07-16 16:39:23,102 : INFO : Mode.attract : Started. Priority: 10
+2024-07-16 16:39:23,102 : INFO : EventManager : Event: ======'modes_active_modes_changed'====== Args={}
+2024-07-16 16:39:23,102 : INFO : EventManager : Event: ======'mode_attract_started'====== Args={}
+2024-07-16 16:39:23,102 : INFO : EventManager : Event: ======'collecting_balls_complete'====== Args={}
+2024-07-16 16:39:23,102 : INFO : Machine : Starting the main run loop.
+2024-07-16 16:40:02,554 : INFO : Machine : Shutting down...
+2024-07-16 16:40:02,554 : INFO : EventManager : Event: ======'shutdown'====== Args={}
+2024-07-16 16:40:02,557 : INFO : root : MPF run loop ended.
